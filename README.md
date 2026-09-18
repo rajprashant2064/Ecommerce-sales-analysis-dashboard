@@ -8,7 +8,7 @@ The project demonstrates a complete data analytics workflow, starting from raw t
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Sales Dashboard](Dashboard_preview.png)
+![E-Commerce Sales Dashboard](dashboard_preview.png)
 
 The interactive Power BI dashboard provides an overview of:
 
